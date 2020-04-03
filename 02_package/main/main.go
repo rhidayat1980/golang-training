@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
+	"github.com/rhidayat1980/golang-training/02_package/icomefromalaska"
 	"github.com/rhidayat1980/golang-training/02_package/stringutil"
-	"github.com/rhidayat1980/golang-training/icomefromalaska"
 )
 
 func main() {
