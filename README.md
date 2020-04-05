@@ -1,5 +1,13 @@
-# personal repo ku ketika belajar golang
+### Repo belajar golang
 
-repo ini adalah personal project waktu saya balajar golang dari Todd McLeod.
-struktur dan isinya juga mengikuti struktur repo Todd, hanya beberapa perubahan kecil seperti go mod,
-penambahan beberapa catatan di setiap golang file untuk ngasih keterangan.
+repo untuk belajar golang, diambil dari repo nya Todd McLeod, go workshop punya safaribook, go workshop punya bbc dan golang workshop2 lainnya
+
+isinya:
+
+- golang workshop
+- golang exercise
+- golang daily problem
+- golang algoritma dan struktur data
+- projek-projek kecil: cli, simple api
+- framework web macam gin, echo, fiber
+- rpc framework
